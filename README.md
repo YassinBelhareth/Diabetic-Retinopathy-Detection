@@ -74,7 +74,5 @@ We use the **APTOS 2019 Blindness Detection** dataset from Kaggle.
 - **Metric**: Quadratic Weighted Kappa (QWK)
 - Achieved competitive QWK score on validation and test sets.
 
----
 
-## 📜 License
-This project is released under the MIT License.
+
